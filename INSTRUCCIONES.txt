@@ -1,0 +1,7 @@
+Cambiar estado de tarea
+
+-Clickear sobre las imagenes de la carita
+Ver o escribir comentarios
+
+-Clikear sobre la image de comentarios
+-Para poder comentari si o si debe tener un usuario
